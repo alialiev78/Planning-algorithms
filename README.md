@@ -1,0 +1,1 @@
+This is a repository containing materials for the Planning Algorithms course. Two homework assignments have been completed entirely correctly, and the third one scored 75 out of 100. Additionally, seminar materials will be uploaded later.
